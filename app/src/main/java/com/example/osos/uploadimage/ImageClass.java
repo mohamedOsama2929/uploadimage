@@ -2,7 +2,7 @@ package com.example.osos.uploadimage;
 
 import com.google.gson.annotations.SerializedName;
 
-class ImageClasss {
+class ImageClass {
 
     @SerializedName("image")
     private String image;
